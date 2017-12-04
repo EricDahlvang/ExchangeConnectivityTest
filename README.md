@@ -1,4 +1,4 @@
-# ExchangeConnectivityTest
+# Exchange Connectivity Test
 
-This console application uses the Microsoft.Exchange.WebServices library to test connectivity to an email account.
 
+![Screenshot](https://github.com/EricDahlvang/ExchangeConnectivityTest/blob/master/ExchangeTest.png)
